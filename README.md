@@ -1,7 +1,42 @@
 ## ABOUT
 ## TECH STACK (...currently)
+<img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/js.svg"> &nbsp;
+<img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/react.svg"> &nbsp;
+<img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/redux.svg"> &nbsp;
+<img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/nodejs.svg"> &nbsp;
+<img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/express.svg"> &nbsp;
+<img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/sequelize.svg"> &nbsp;
+<img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/postgresql.svg">
+<ul>
+  <li><strong>JavaScript</strong> as core language</li>
+  <li><strong>React.js</strong> for Frontend App development</li>
+  <li><strong>React-Redux</strong> for state management, with or without redux-thunk (within React)</li>
+  <p>&nbsp;</p>
+  <li><strong>Node.js</strong> for Server-side development</li>
+  <li><strong>Express</strong> for HTTP requests and routing (within Node.js)</li>
+  <li><strong>Sequelize</strong> for database management from Node.js</li>
+  <li><strong>PostgreSQL</strong> for actual database building.</li>
+</ul>
+
+#### Other Tools:
+<img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/git.svg"> &nbsp;
+<img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/ai.svg"> &nbsp;
+<img width="5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/figma.svg">
+<ul>
+<li><strong>Git (+ GitHub)</strong> for version control</li>
+<li><strong>Adobe Illustrator</strong> for graphic element design</li>
+<li><strong>Figma</strong> for mockups and collaborative ideation.</li>
+</ul>
+
 ## PROJECTS
 ## CONTACT
-<a href="https://www.linkedin.com/in/lsb100/" ><img width="5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/2300e554d92ed80438fd8d1a27b109990ceb15d6/svg/linkedin.svg"></a> &nbsp;
-<a href="mailto:luciosb100@gmail.com"><img width="5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/2300e554d92ed80438fd8d1a27b109990ceb15d6/svg/gmail.svg"></a>
-<a href="https://join.skype.com/svRU7SF0OvCh"><img width="5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/4236785fc552f2a39d12420a90d3a67ffe77b513/svg/skype.svg"></a>
+<p>Hit me up! Pick your poison:</p>
+<a href="https://www.linkedin.com/in/lsb100/" >
+  <img width="5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/2300e554d92ed80438fd8d1a27b109990ceb15d6/svg/linkedin.svg">
+</a> &nbsp;
+<a href="mailto:luciosb100@gmail.com">
+  <img width="5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/2300e554d92ed80438fd8d1a27b109990ceb15d6/svg/gmail.svg">
+</a> &nbsp;
+<a href="https://join.skype.com/svRU7SF0OvCh">
+  <img width="5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/4236785fc552f2a39d12420a90d3a67ffe77b513/svg/skype.svg">
+</a>
