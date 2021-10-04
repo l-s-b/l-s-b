@@ -38,6 +38,24 @@
 </ul>
 
 ## PROJECTS
+#### Henry Games
+<a href="https://github.com/l-s-b/Videogames-FT15b">
+  <span>Solo project: Single page application.</span>
+  <p>
+    <img height="200px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/1.png">
+    <img height="200px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/2.png">
+  </p>
+  <p>
+  <img height="300px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/4.png">
+  <img height="300px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/6.png">
+  <img height="300px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/5.png">
+  </p>
+  <p>
+  <img height="300px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/3.png">
+  <img height="300px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/7.png">
+  </p>
+<a>
+
 ## CONTACT
 <p>Hit me up! Make your choice:</p>
 <a href="https://www.linkedin.com/in/lsb100/" >
