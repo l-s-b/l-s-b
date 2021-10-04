@@ -1,4 +1,13 @@
-## ABOUT
+<div align="center">
+  <p>Drawn by novelty.</p>
+  <p>Fueled by curiosity.</p>
+  <p>Lit by beauty.</p>
+  <p>Armed with creativity.</p>
+  <p>Here for liberty.</p>
+<h1>🖐 Hi there.</h1>
+<p>I'm Lucio, and I develop web apps. What's <i>your</i> superpower?🧙</p>
+</div>
+
 ## TECH STACK (...currently)
 <img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/js.svg"> &nbsp;
 <img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/react.svg"> &nbsp;
@@ -30,7 +39,7 @@
 
 ## PROJECTS
 ## CONTACT
-<p>Hit me up! Pick your poison:</p>
+<p>Hit me up! Make your choice:</p>
 <a href="https://www.linkedin.com/in/lsb100/" >
   <img width="5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/2300e554d92ed80438fd8d1a27b109990ceb15d6/svg/linkedin.svg">
 </a> &nbsp;
