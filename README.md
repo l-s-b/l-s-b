@@ -8,7 +8,7 @@
 <p>I'm Lucio, and I develop web apps. What's <i>your</i> superpower?🧙</p>
 </div>
 
-## TECH STACK (...currently)
+## TECH STACK (currently)
 <img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/js.svg"> &nbsp;
 <img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/react.svg"> &nbsp;
 <img width="7.5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/73bce7738904c4b395c0c34a66ddd64f9a4bac67/svg/redux.svg"> &nbsp;
@@ -36,34 +36,3 @@
 <li><strong>Adobe Illustrator</strong> for graphic element design</li>
 <li><strong>Figma</strong> for mockups and collaborative ideation.</li>
 </ul>
-
-## PROJECTS
-#### Henry Games
-<a href="https://github.com/l-s-b/Videogames-FT15b">
-  <span>Solo project: Single page application.</span>
-  <p>
-    <img height="200px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/1.png">
-    <img height="200px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/2.png">
-  </p>
-  <p>
-  <img height="300px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/4.png">
-  <img height="300px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/6.png">
-  <img height="300px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/5.png">
-  </p>
-  <p>
-  <img height="300px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/3.png">
-  <img height="300px" src="https://raw.githubusercontent.com/l-s-b/Videogames-FT15b/main/screenshots/7.png">
-  </p>
-<a>
-
-## CONTACT
-<p>Hit me up! Make your choice:</p>
-<a href="https://www.linkedin.com/in/lsb100/" >
-  <img width="5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/2300e554d92ed80438fd8d1a27b109990ceb15d6/svg/linkedin.svg">
-</a> &nbsp;
-<a href="mailto:luciosb100@gmail.com">
-  <img width="5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/2300e554d92ed80438fd8d1a27b109990ceb15d6/svg/gmail.svg">
-</a> &nbsp;
-<a href="https://join.skype.com/svRU7SF0OvCh">
-  <img width="5%" src="https://raw.githubusercontent.com/l-s-b/l-s-b/4236785fc552f2a39d12420a90d3a67ffe77b513/svg/skype.svg">
-</a>
